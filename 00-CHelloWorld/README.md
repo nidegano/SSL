@@ -1,6 +1,6 @@
 # Trabajo 00 - "Hello, World!" en C
 
-- Autor de la resolución:
+## Autor de la resolución
 
   - Usuario: nidegano
   - Legajo: 175.248-0
@@ -8,7 +8,7 @@
   - Nombre: Nicolás
   - Número y título del trabajo: 00 - "Hello, World!" en C
 
-- Enunciado:
+## Enunciado
 
   - Objetivos
     - Configurar el entorno de desarrollo para la cursada.
@@ -33,7 +33,7 @@
     1. Cuenta en GitHub
       - Si no tiene, cree una cuenta GitHub.
       - Si no lo hizo, asocie a su cuenta GitHub el email @frba y verifíquelo. Es posible asociar más de una cuenta email a una cuenta GitHub.
-      -  Si no lo hizo, indique que su cuenta email @frba es pública. Esto permite a la cátedra encontrar a los estudiantes. Si por temas de privacidad prefiere no tener como pública esa dirección, puede cambiarla al final del proceso.  
+      - Si no lo hizo, indique que su cuenta email @frba es pública. Esto permite a la cátedra encontrar a los estudiantes. Si por temas de privacidad prefiere no tener como pública esa dirección, puede cambiarla al final del proceso.  
 
     2. Repositorio para público para la materia
       - Cree un repositorio público llamado SSL.
@@ -74,7 +74,7 @@
               |-- hello.c      // Archivo fuente del programa
               `-- output.txt   // Archivo con la salida del programa
       ```  
-- Resultados:
+## Resultados
   
   - Compilador seleccionado: GCC  
     gcc.exe (Rev13, Built by MSYS2 project) 15.2.0  
