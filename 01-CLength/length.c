@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <assert.h>
 
 int length(const char cadena[]) {
     if (cadena[0] == '\0')
@@ -8,8 +9,7 @@ int length(const char cadena[]) {
 
 int main() {
     char cadena[] = "Hola Mundo!";
-    
-    printf("'%s' -> largo: %d\n", cadena, length(cadena));
-
+    assert(length(cadena)  == 11);
+    printf("Todos los asserts pasaron OK\n");
     return 0;
 }
