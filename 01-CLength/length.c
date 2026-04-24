@@ -10,6 +10,10 @@ int length(const char cadena[]) {
 int main() {
     char cadena[] = "Hola Mundo!";
     assert(length(cadena)  == 11);
+    
+    char cadena[] = "SSL";
+    assert(length(cadena)  == 3);
+    
     printf("Todos los asserts pasaron OK\n");
     return 0;
 }
